@@ -1,0 +1,5 @@
+cluster,nuclease_resistance_pct,endosomal_escape_pct,mitochondrial_accumulation_fc,OMM_fusion_pct,IMM_content_mixing_pct,matrix_delivery_pct,reporter_signal_fc,persistence_half_life_h,cell_viability_pct,overall_success
+0,82.25,47.05,11.84,56.74,51.22,53.34,14.15,42.31,83.75,0.42
+1,47.93,46.8,10.79,54.62,49.74,44.06,10.11,26.58,81.79,0.01
+2,49.3,52.75,15.91,68.68,57.8,51.56,10.89,29.13,88.8,0.03
+3,83.43,52.66,15.68,68.92,65.34,64.97,15.71,45.17,88.7,0.67
