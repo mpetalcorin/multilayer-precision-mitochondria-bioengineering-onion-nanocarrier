@@ -1,5 +1,6 @@
 # precision-mitochondria-bioengineering-multilayer-onion-nanocarrier
 Computational proof-of-concept for multilayer mitochondria engineering using a six-layer onion nanocarrier for matrix delivery and matrix-restricted expression of engineered human mtDNA.
+<img width="1599" height="1038" alt="Precision Mitochondria §Engineering" src="https://github.com/user-attachments/assets/2da1efe4-0d3a-4f37-b52a-1717892bee4b" />
 
 # Precision Mitochondria: Layered Onion Nanocarrier for Matrix Delivery and Expression of Engineered mtDNA
 
