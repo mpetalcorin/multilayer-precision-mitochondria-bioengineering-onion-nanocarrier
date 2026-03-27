@@ -106,6 +106,9 @@ This repository contains a simulation-based proof of concept, not empirical biol
 ## Suggested citation
 If citing this repository, cite the associated notebook, manuscript text, and repository title as a computational proof-of-concept study of mitochondrial matrix delivery and expression of engineered mtDNA.
 
+## Citation
+**Petalcorin, M.I.R.** (2026). Precision Mitochondria through a Layered Onion Nanocarrier for Matrix Delivery and Expression of Engineered Human mtDNA. chemRxiv 15001336/v1, 1-18. https://chemrxiv.org/doi/full/10.26434/chemrxiv.15001336/v1
+
 ## Contact
 **Mark Ihrwell R. Petalcorin, PhD**  
 Independent Investigator  
